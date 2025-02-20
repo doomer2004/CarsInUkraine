@@ -42,6 +42,24 @@ This dataset contains information about vehicle registration in Ukraine from the
 
 ---
 
+№№ 🧩 Fields Used for Analysis
+
+The following fields are used for analysis:
+
+-PERSON
+-OPER_NAME
+-D_REG
+-BRAND
+-MODEL
+-MAKE_YEAR
+-COLOR
+-KIND
+-BODY
+-PURPOSE
+-FUEL
+
+---
+
 ## 📊 Possible Analysis Directions
 
 - 📈 Analyzing trends in new and used vehicle registrations.
