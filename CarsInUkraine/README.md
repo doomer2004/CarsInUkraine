@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This dataset contains information about vehicle registrations in Ukraine. It can be useful for analyzing car purchase trends, identifying popular brands, models, and colors of vehicles.
+This data set contains information about vehicle registration in Ukraine from the [source](https://data.gov.ua/dataset/06779371-308f-42d7-895e-5a39833375f0). This project analyzes, downloads, and processes data to identify the most popular car colors and brands in this time period.
 
 ## 🎯 Research Objectives
 
